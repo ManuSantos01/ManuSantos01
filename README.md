@@ -16,6 +16,8 @@ Atualmente as linguagens de programação que estudo:
 <br>
 .  <img src="https://img.icons8.com/?size=100&id=09wcI2-oER_x&format=png&color=FA5252"/>
 
+[![Manu Santos stats](https://github-readme-stats.vercel.app/api?username=ManuSantos01)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
