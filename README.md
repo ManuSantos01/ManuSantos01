@@ -2,7 +2,7 @@
 
 Eu sou Emanuelle Santos, sou uma programadora em aprendizado com foco principal no desenvolvimento Front-End, no intuito de me tornar 
 um desenvolvedor Full Stack, estudante do DEVCLUB. 
-Ferramenta GIT essencial para o desenvolvimento colaborativo, oferecendo recursos para controle de versão, revisão de código e gestão de projetos. 
+Ferramenta Git e Github essencial para o desenvolvimento colaborativo, oferecendo recursos para controle de versão, revisão de código e gestão de projetos. 
 <br>
 <br>
 Atualmente as linguagens de programação que estudo:
