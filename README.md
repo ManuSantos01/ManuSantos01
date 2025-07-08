@@ -18,6 +18,8 @@ Atualmente as linguagens de programação que estudo:
 
 [![Manu Santos stats](https://github-readme-stats.vercel.app/api?username=ManuSantos01)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManuSantos01)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
